@@ -1,4 +1,4 @@
-# EDA-and-ML-Based-Car-Price-Estimator (Run in Colab - https://colab.research.google.com/drive/1z8L0E4VyK82oRcAUN8Jm6PRKymSSYh0w#scrollTo=MPKaaGH1kvpI )
+# EDA-and-ML-Based-Car-Price-Estimator 
 This project analyzes a car dataset with EDA and builds regression models (Linear Regression, Random Forest, XGBoost) to predict car prices based on features like brand, fuel type, transmission, mileage, and more.
 
 ## Overview
